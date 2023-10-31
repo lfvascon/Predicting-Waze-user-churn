@@ -1,5 +1,4 @@
-# Project Title
-Predicting-Waze-user-churn.
+# Predicting-Waze-user-churn.
 
 ## Project Overview
 Is a machine learning project aimed at predicting user churn within the Waze application. The project involves building and evaluating classification models, specifically decision tree, random forest, and XGBoost, to identify patterns and factors influencing user churn. By understanding user behavior and engagement metrics, Waze can proactively take measures to retain users and enhance their overall experience.
